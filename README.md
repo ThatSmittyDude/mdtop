@@ -14,8 +14,11 @@ What this needs:
 
 Compile the program on linux:
 
+<img width="3424" height="1862" alt="image" src="https://github.com/user-attachments/assets/cd8f7688-7a9a-4f8e-adc9-78e2eefb2004" />
+
+
 simply just compile with g++
 
-g++17 and newer should work
+g++14 and newer should work
 
 >g++ mdtop.cpp -o mdtop
