@@ -9,9 +9,7 @@ What this needs:
 
 &emsp; -Looking to implement a better TUI like htop or btop.
 
-&emsp; - Code that is commented out reads /proc/mounts and searches for /dev/md, 
-
-&emsp; should return on a new line but doesn't work.
+&emsp; -Code that is commented out reads /proc/mounts and searches for /dev/md, but doesn't work.
 
 &emsp; -Check for memory leaks, bugs, errors, and comaptability. 
 
