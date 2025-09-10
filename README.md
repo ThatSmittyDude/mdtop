@@ -7,11 +7,12 @@ Quite simply, this tool reads the info from /proc/mdstat and dumps it to the scr
 
 What this needs:
 
-&nbsp; -Looking to implement a better TUI like htop or btop.
+&emsp; -Looking to implement a better TUI like htop or btop.
 
-&nbsp;-There's a bug in the second part of the program, currently commented out. This parts reads /proc/mounts and searches for /dev/md, should return on a new line but doesn't work.
+&emsp;-There's a bug in the second part of the program, currently commented out. This parts reads /proc/mounts and searches for /dev/md, 
+&emsp; should return on a new line but doesn't work.
 
-&nbsp; -Check for memory leaks, bugs, errors, and comaptability. I'm just a hobbyist, so anything helps the code and hopefully I'll learn something too.
+&emsp; -Check for memory leaks, bugs, errors, and comaptability. I'm just a hobbyist, so anything helps the code and hopefully I'll learn something too.
 
 Compile the program on linux:
 
