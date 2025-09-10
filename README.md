@@ -5,7 +5,7 @@ A simple "top" tool for mulitple device raid
 Quite simply, this tool reads the info from /proc/mdstat and dumps it to the screen every 0.5 seconds
 
 
-What this needs:
+>What this needs:
 
 &emsp; -Looking to implement a better TUI like htop or btop.
 
@@ -15,7 +15,7 @@ What this needs:
 
 I'm just a hobbyist, so anything helps the code and hopefully I'll learn something too.
 
-Compile the program on linux:
+>Compile the program on linux:
 
 <img width="3424" height="1862" alt="image" src="https://github.com/user-attachments/assets/cd8f7688-7a9a-4f8e-adc9-78e2eefb2004" />
 
